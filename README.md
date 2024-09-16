@@ -1,6 +1,11 @@
 # Learn Typography by Building a Nutrition Label
 
+![image](https://github.com/user-attachments/assets/b029b454-7ea0-4a67-b370-92f41b29dcbb)
+
+
 This project is part of the **FreeCodeCamp** curriculum, where you'll learn about **typography** by creating a **Nutrition Label**.
+
+[Learn Typography by Building a Nutrition Label](https://freecodecamp-responsive-web-design.github.io/learn-typography-by-building-a-nutrition-label/)
 
 ## In this project, you will:
 - Explore the fundamentals of **typography** including font choices, sizes, weights, and line heights.
